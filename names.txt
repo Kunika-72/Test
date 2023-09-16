@@ -1,0 +1,2 @@
+I am writing this in vim mode and will puch it to my github repo with just command line
+
