@@ -1,1 +1,3 @@
 loren ipsum text
+
+i am editing this file in the editor. I will then change the file in the main folder and then i will see the changes conflict
